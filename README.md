@@ -1,4 +1,4 @@
-## ✍✍ Algorizm_Problems ✍✍
+## ✍✍ Algorithm_Problems ✍✍
 코딩 문제 풀이 저장하는 REPO 입니다.
 문제 풀 때마다 피드백하고 있습니다.
 
